@@ -23,7 +23,7 @@ Aspectos cumplidos de la actividad propuesta por el profesor:
 * Implementación de un balanceador de carga con Nginx.
 * Alta disponibilidad de la aplicación Wordpress, alta disponibilidad de la base de datos y alta disponibilidad del servidor NFS.
 * Implementación de sistema de archivos NFS.
-* Implementación de certificado SSL para la página web, además de redireccionar el tráfico http a https en el dominio `https://teleafit.tech`.
+* Implementación de certificado SSL para la página web, además de redireccionar el tráfico http a https en el dominio `https://reto4.teleafit.tech`.
 
 ### 1.2. Que aspectos NO cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
 
