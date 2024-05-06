@@ -9,7 +9,7 @@
 - **Nombre:** Edwin Nelson Montoya Munera
 - **Correo:** emontoya@eafit.edu.co
 
-# Proyecto 1 (Sistema de archivos distribuidos)
+# Reto 4 - Cluster de kubernetes con wordpress, mysql y NFS
 
 ## 1. breve descripción de la actividad
 
